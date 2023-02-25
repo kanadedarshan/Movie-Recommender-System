@@ -7,5 +7,5 @@ A movie Recommeder System using Collaborative Filtering and Graph based Recommen
 <li>recommeder_app.py contains the code for streamlit</li>
 </ul>
 
-For better explaination of the code and the entire process you can read my blog at this link.
+For better explaination of the code and the entire process you can read my blog at [this link](https://darshankanade.medium.com/build-a-collaborative-filtering-and-graph-based-movie-recommendation-system-using-streamlit-bda70a457789).
 </p>
