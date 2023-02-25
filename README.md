@@ -1,7 +1,5 @@
 # Movie-Recommender-System
 A movie Recommeder System using Collaborative Filtering and Graph based Recommendations 
-
-![app image](https://imgur.com/a/1gA7IMF)
 <p>
 <ul>
 <li>IPython Notebook has the exploratory data analysis as well</li>
